@@ -1,0 +1,44 @@
+[
+ 
+    {
+        "id":1,
+        "small_img":"https://i.ibb.co/w7mnTzX/dentis.png",
+        "big_img":"https://i.ibb.co/jZstP24/screencapture-services-review-ef76d-web-app-2022-12-10-17-57-19.png",
+        "clientlink":"https://github.com/humayonitbd/React-service-review-client-site",
+        "serverlink": "https://github.com/humayonitbd/-React-service-review-server-site",
+        "livelink":"https://services-review-ef76d.web.app/",
+        "profession": "MERN Strak",
+        "name":"Dentise service website",
+        "details":"My dentists website is a unique creative website my website homepage has a banner and home page three products taken from database and extra 2 section unique design done And below is a footer.And there is a page called Services where the products are fetched from the database and each product has a button which on click. When clicked, a dynamic popup will pop up as the ID of each product and there is a form to leave a review,And the review page has two sections in the first section to give reviews And in the unique section the product details are given and here are the reviews.All the comments of those who give are given below the product details and the user will read these comments each of the reviews,Every reviews will show according to the avatar user there is a page called MyTV and from there the reviews can be deleted and updated as well as the reviews will be in government means big to small according to timing and To provide security to the website, website login is used, private routers are used and the website.Every section and structure of the website is very well done and the website.Tailwend CSS and daysiui are used for website design Various questions are answered on the blog page of the website.Tried to make the website a bit creative and unique and all the functionalities on the website are very clear and tried to make them as much as possible."
+
+
+    },
+    
+    {
+        "id":2,
+        "small_img":"https://i.ibb.co/gPgHTcV/project2.png",
+        "big_img":"https://i.ibb.co/ZxPfMrx/screencapture-programming-courses-project-web-app-courses-2022-12-10-18-06-05.png",
+        "profession": "Front End React",
+        "clientlink":"https://github.com/humayonitbd/React-Cources-Client-Project",
+        "serverlink": "https://github.com/humayonitbd/React-Cources-Server-Project",
+        "livelink":"https://programming-courses-project.web.app/",
+        "name":"Courses review website",
+        "details":"PROGRAMMING LEARNING I tried to make this website as a very creative website I have a website name first and it is showing in the title.There is a page linked to each option in the header where by clicking you can see the homepage and also by clicking it you can see different types of courses. What courses are available on our website.There are two sections in Karee stage one left site and another right site on category click you can see your related quote details and also click on those you can see your details.Go to the details page and read all about your quotes accordingly get premium access On each there is a button by clicking on which you can buy according to the price.If you want, you can download all the details of our website in PDF format. For this, we have given you a nickname and a button in our top section. If you click on it, all the details will be downloaded in PDF format.And then you go to buy our course by reading the details, then there is an excel button called premium, if you click on it below, if you are not logged in to our website, it will take you to the login page because it is locked in private, you cannot buy on our website if you are not logged in.If you are new to our website please register by going to our register page and logging in until you are logged in.You can't see that often on any website because our website is completely covered by authorized security..You can't see that often on any website because our website is completely covered by authorized security.The website is completely unique website. Different types of image icons are used in our website and also our website is responsive.Our website has been helped by tailwind css..Each header section on the page is linked to the page and an optional error page is created..I have tried to make my website very creative and reasonable and the types of objects and various functionality components used in the website have been very reasonable And a page on our website called blog has answers of various questions which you can remember very much."
+
+
+    },
+    {
+        "id":3,
+        "small_img":"https://i.ibb.co/68H1Gxq/project1.png",
+        "big_img":"https://i.ibb.co/nBL7SyV/screencapture-bike-resale-market-web-app-2022-12-10-18-04-25.png",
+        "profession": "MERN Strak",
+        "clientlink":"https://github.com/humayonitbd/Motorcycle-ecommercs-project-client-site",
+        "serverlink": "https://github.com/humayonitbd/Motorcycle-ecommercs-project-server-site",
+        "livelink":"https://bike-resale-market.web.app/",
+        "name":"Motorcycle resale website",
+        "details":"Website Details: You can see a meaningful header footer and home page on my motorcycle creative website.On this website each product is picked according to different motorcycle category and each product is shown in dynamic round.Every product has a button named book next to it and by clicking on it you can make a booking with the help of mobile.And there is a report button next to the book book button from where you can report the product .***** the products that you book will go to your database, you can view the products and delete them from there, and on a click of a button you can take the dynamic list.If you are a seller and login to the website here, you can create a product and then view your ad and submit your ad in the ad section by clicking a button.After you join as seller, admin can verify you if you want and if you verify, it will show you the products as a tick mark next to your product.*****The admin of this web site can see the user successfully and if no one can see the seller, I can verify the seller,My website is created by tailwend css and has firebase authentication and express.js database connect. My website is designed in a modern way with all the functionalities very nicely arranged and created from a creative mindset"
+
+
+    }
+    
+]
